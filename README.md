@@ -1,1 +1,1 @@
-# Class_Activity_07
+# This program acts as a leap year checker.
